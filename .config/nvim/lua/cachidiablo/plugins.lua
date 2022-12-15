@@ -56,7 +56,6 @@ return packer.startup(function(use)
 
 
   -- My color schemes
-  use 'folke/tokyonight.nvim'
   use 'ellisonleao/gruvbox.nvim'
   use 'Mofiqul/vscode.nvim'
   use "lunarvim/darkplus.nvim"
