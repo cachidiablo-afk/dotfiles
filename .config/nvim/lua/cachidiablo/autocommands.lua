@@ -3,7 +3,7 @@ augroup _git
     autocmd!
     autocmd FileType gitcommit setlocal wrap
     autocmd FileType gitcommit setlocal textwidth=72
-    autocmd FileType gitcommit setlocal colorcolumn=51
+    autocmd FileType gitcommit setlocal colorcolumn=72
     autocmd FileType gitcommit setlocal spell
   augroup end
   
