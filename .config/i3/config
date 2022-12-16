@@ -384,8 +384,8 @@ bindsym XF86AudioNext exec playerctl next -p spotify
 bindsym XF86AudioPrev exec playerctl previous -p spotify
 
 #gaps config
-gaps outer 5
-gaps inner 5
+gaps outer 15
+gaps inner 15
 smart_gaps on
 hide_edge_borders smart
 
@@ -403,7 +403,7 @@ bindsym F3 exec /home/cachidiablo/.config/scripts/audio
 
 #flameshot
 bindsym Print exec flameshot gui
-bindsym $mod+Print exec flameshot full -p /home/cachidiablo/Screens
+bindsym $mod+Print exec flameshot full -p /home/cachidiablo/screens
 
 #change wallpaper with scrolllock
 bindsym $mod+Scroll_Lock exec feh --bg-fill -rzs /wd/Linux/papes/normal/
