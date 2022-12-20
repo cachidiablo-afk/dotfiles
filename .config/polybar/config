@@ -64,7 +64,7 @@ font-4 = Font Awesome 6 Brands:pixelsize=12;antialias=true;0
 font-5 = Meiryo UI:style=Regular:size=12:antialias=true;0
 
 modules-left = i3
-modules-center =  
+modules-center = spotify 
 modules-right = pacman-updates pulseaudio memory cpu  date 
 
 separator = |
